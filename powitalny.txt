@@ -1,1 +1,2 @@
 tojest pierwsza linia
+a to druga
