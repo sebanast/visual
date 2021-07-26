@@ -1,3 +1,4 @@
 tojest pierwsza linia
 a to druga
 trzecia
+zdalnie dodałem trzecia
